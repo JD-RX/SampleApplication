@@ -1,0 +1,49 @@
+.panelHeadersText {
+    color: #716517;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: #48802c!important;
+    height: 50px!important;
+}
+
+.tweetMessage{
+    max-height: 4em;
+    overflow: hidden;
+    font-size: small;
+    text-overflow: ellipsis;
+}
+
+.tweetDate{
+    color: #2b542c;
+}
+
+.tweetUserName{
+    text-decoration:none;
+}
+
+html,
+body {
+    margin:0;
+    padding:0;
+    height:100%;
+    box-sizing: border-box;
+}
+
+.footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:40px;
+}
+
+.login{
+    margin:0 auto;
+    vertical-align:center;
+}
+
+image{
+    width:80px!important;
+    height:90px!important;
+}
